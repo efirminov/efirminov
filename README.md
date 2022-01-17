@@ -13,7 +13,7 @@
 <br></p>
 </h3>
 
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>Formado em Sistema para Internet pela Uniesp - Centro Universitário, 
+<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>TECNOLOGO EM SISTEMAS PARA INTERNET pela Uniesp - Centro Universitário, 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Formado em Sistema para Internet pela Uniesp - Centro Universitário, 
