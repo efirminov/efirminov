@@ -12,7 +12,8 @@
 </h3>
 
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>Sou Engenheiro de Sistemas com mais de 2 anos, altamente qualificado com experiência em análise, design, desenvolvimento, 
-implementação e manutenção de sistemas complexos. Possui habilidades técnicas robustas, capacidade de resolução de problemas e uma forte compreensão dos processos de engenharia de sistemas. Proficiente em trabalhar em ambientes multidisciplinares e em colaborar com equipes para garantir a integração eficaz e o desempenho otimizado dos sistemas.
+implementação e manutenção de sistemas complexos. Possui habilidades técnicas robustas, capacidade de resolução de problemas 
+e uma forte compreensão dos processos de engenharia de sistemas. Proficiente em trabalhar em ambientes multidisciplinares e em colaborar com equipes para garantir a integração eficaz e o desempenho otimizado dos sistemas.
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Formado em Sistema para Internet pela Uniesp - Centro Universitário, 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack." tabindex="0" role="button">
