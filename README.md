@@ -35,7 +35,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   
 <ul dir="auto">
   <li>HTML, CSS, JSP</li>
-  <li>JavaScript</li>
+  <li>JavaScript, Servelet, EJBs</li>
   <li>Java, Spring Boot</li>
   <li>MySQL, PGAdmin, Oracle</li>
 </ul>
